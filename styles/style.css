@@ -110,3 +110,55 @@ article {
 .blog-info span {
     color: #562EFF
 }
+/* Cours Style css */
+#cours {
+    background-color: #fff;
+}
+.course {
+    display: flex;
+    padding: 0 33px;
+    justify-content: space-between;
+}
+.cours {
+    flex-basis: 224px;
+}
+.cours img {
+    width: 224px;
+    height: 104px;
+}
+.cours h3 {
+    font-size: 21px;
+    margin: 0;
+}
+.cours p {
+    font-size: 14.5px;
+    color: #ED6B4F;
+}
+.cours-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.cours-info span {
+    color: #A2A2A2;;
+    font-size: 13px;
+}
+.fa-solid {
+    font-size: 13px;
+    color: #FFC014;
+}
+.fa-regular {
+    font-size: 13px;
+    color: rgb(175, 166, 166);
+}
+.cours-duration {
+    font-size: 13px;
+    color: #FF4A60;
+    border: 1px solid #FF4A60;
+    padding: 5px 15px 3px;
+    border-radius: 25px;
+    background-color: #ff4a5f88;
+}
+.fa-clock {
+    color:#FF4A60;
+}
